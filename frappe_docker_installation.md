@@ -54,7 +54,7 @@ docker ps
 ## Access Frappe Bench Container
 Execute an interactive shell inside the Frappe bench container:
 ```sh
-docker exec -it {frappe_bench} bash
+docker exec -it frappe_docker bash
 ```
 
 ## Install Frappe Bench
