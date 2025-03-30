@@ -113,7 +113,6 @@ Initialize a new Frappe bench instance:
 bench init --skip-redis-config-generation frappe-branch
 ```
 
-_(Replace `version-14` with the Frappe version you want to install.)_
 
 Navigate into the `frappe-bench` directory:
 
