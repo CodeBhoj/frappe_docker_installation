@@ -110,7 +110,7 @@ docker ps
 Initialize a new Frappe bench instance:
 
 ```sh
-bench init --skip-redis-config-generation --frappe-branch version-14 frappe-bench
+bench init --skip-redis-config-generation --frappe-branch
 ```
 
 _(Replace `version-14` with the Frappe version you want to install.)_
